@@ -43,9 +43,9 @@ Aqui está a lista completa dos projetos desenvolvidos ao longo dos 30 dias:
 | --- | --------------------------------------------- | ------ |
 | 00  | Getting Setup                                 | ✅     |
 | 01  | JavaScript Drum Kit                           | ✅     |
-| 02  | CSS + JS Clock                                | 🔄     |
-| 03  | Playing with CSS Variables and JS             | 🔄     |
-| 04  | Array Cardio Day 1                            | ⏳     |
+| 02  | CSS + JS Clock                                | ✅     |
+| 03  | Playing with CSS Variables and JS             | ✅     |
+| 04  | Array Cardio Day 1                            | 🔄     |
 | 05  | Flex Panels Image Gallery                     | ⏳     |
 | 06  | Ajax Type Ahead                               | ⏳     |
 | 07  | Array Cardio Day 2                            | ⏳     |
