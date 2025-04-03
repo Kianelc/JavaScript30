@@ -53,8 +53,8 @@ Aqui está a lista completa dos projetos desenvolvidos ao longo dos 30 dias:
 | 09  | 14 Must Know Dev Tools Tricks                 | ✅     |
 | 10  | Hold Shift to Check Multiple Checkboxes       | ✅     |
 | 11  | Custom HTML5 Video Player                     | ✅     |
-| 12  | Key Sequence Detection (KONAMI CODE)          | 🔄     |
-| 13  | Slide In on Scroll                            | ⏳     |
+| 12  | Key Sequence Detection (KONAMI CODE)          | ✅     |
+| 13  | Slide In on Scroll                            | 🔄     |
 | 14  | Object and Arrays - Reference VS Copy         | ⏳     |
 | 15  | LocalStorage and Event Delegation             | ⏳     |
 | 16  | CSS Text Shadow Mouse Move Effect             | ⏳     |
