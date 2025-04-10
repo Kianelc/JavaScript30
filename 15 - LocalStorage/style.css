@@ -72,10 +72,94 @@ h2 {
 
 .add-items {
   margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
 }
 
-.add-items input {
+.input-group {
+  display: flex;
+  gap: 10px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.input-group input[type="text"] {
+  flex: 1;
   padding: 10px;
-  outline: 0;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.input-group input[type="submit"] {
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.actions input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-items input[type="submit"] {
+  background-color: #4caf50; /* verde */
+  color: white;
+}
+
+#checkAll {
+  background-color: #2196f3; /* azul */
+  color: white;
+}
+
+#uncheckAll {
+  background-color: #9e9e9e; /* cinza */
+  color: white;
+}
+
+#deleteAll {
+  background-color: #e57373; /* vermelho clarinho */
+  color: white;
+}
+
+.add-items input[type="submit"],
+.add-items input[type="button"] {
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.3s ease;
+}
+
+.add-items input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+#checkAll:hover {
+  background-color: #1976d2;
+}
+
+#uncheckAll:hover {
+  background-color: #757575;
+}
+
+#deleteAll:hover {
+  background-color: #e53935;
+}
+
+input,
+button {
+  border-radius: 5px;
 }
