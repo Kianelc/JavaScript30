@@ -58,8 +58,8 @@ Aqui está a lista completa dos projetos desenvolvidos ao longo dos 30 dias:
 | 14  | Object and Arrays - Reference VS Copy         | ✅     |
 | 15  | LocalStorage and Event Delegation             | ✅     |
 | 16  | CSS Text Shadow Mouse Move Effect             | ✅     |
-| 17  | Sorting Band Names without Articles           | 🔄     |
-| 18  | Tally String Times with Reduce                | ⏳     |
+| 17  | Sorting Band Names without Articles           | ✅     |
+| 18  | Tally String Times with Reduce                | 🔄     |
 | 19  | Unreal Webcam Fun                             | ⏳     |
 | 20  | Native Speech Recognition                     | ⏳     |
 | 21  | Geolocation based Speedometer and Compass     | ⏳     |
