@@ -1,0 +1,26 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de ambiente (exemplo para o .env)
+.env
+
+# Ignorar a pasta de build (exemplo para Next.js ou outras builds)
+.next/
+
+# Ignorar o diretório de dependências do yarn (caso use o Yarn)
+yarn.lock
+
+# Ignorar arquivos do sistema (por exemplo, no macOS)
+.DS_Store
+
+# Ignorar arquivos temporários do editor de código (exemplo para VS Code)
+.vscode/
+
+# Ignorar pacotes npm que não são necessários para o projeto
+package-lock.json
+
+# Ignorar outros arquivos específicos de ambiente
+.idea/
