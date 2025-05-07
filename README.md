@@ -61,8 +61,8 @@ Aqui está a lista completa dos projetos desenvolvidos ao longo dos 30 dias:
 | 17  | Sorting Band Names without Articles           | ✅     |
 | 18  | Tally String Times with Reduce                | ✅     |
 | 19  | Unreal Webcam Fun                             | ✅     |
-| 20  | Native Speech Recognition                     | 🔄     |
-| 21  | Geolocation based Speedometer and Compass     | ⏳     |
+| 20  | Native Speech Recognition                     | ✅     |
+| 21  | Geolocation based Speedometer and Compass     | 🔄     |
 | 22  | Follow Along Links                            | ⏳     |
 | 23  | Speech Synthesis                              | ⏳     |
 | 24  | Sticky Nav                                    | ⏳     |
