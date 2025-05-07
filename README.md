@@ -62,8 +62,8 @@ Aqui está a lista completa dos projetos desenvolvidos ao longo dos 30 dias:
 | 18  | Tally String Times with Reduce                | ✅     |
 | 19  | Unreal Webcam Fun                             | ✅     |
 | 20  | Native Speech Recognition                     | ✅     |
-| 21  | Geolocation based Speedometer and Compass     | 🔄     |
-| 22  | Follow Along Links                            | ⏳     |
+| 21  | Geolocation based Speedometer and Compass     | ✅     |
+| 22  | Follow Along Links                            | 🔄     |
 | 23  | Speech Synthesis                              | ⏳     |
 | 24  | Sticky Nav                                    | ⏳     |
 | 25  | Event Capture, Propagation, Bubbling and Once | ⏳     |
