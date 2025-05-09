@@ -68,8 +68,8 @@ Aqui está a lista completa dos projetos desenvolvidos ao longo dos 30 dias:
 | 24  | Sticky Nav                                    | ✅     |
 | 25  | Event Capture, Propagation, Bubbling and Once | ✅     |
 | 26  | Stripe Follow Along Dropdown                  | ✅     |
-| 27  | Click and Drag to Scroll                      | 🔄     |
-| 28  | Video Speed Controller UI                     | ⏳     |
+| 27  | Click and Drag to Scroll                      | ✅     |
+| 28  | Video Speed Controller UI                     | 🔄     |
 | 29  | Countdown Clock                               | ⏳     |
 | 30  | Whack A Mole Game                             | ⏳     |
 | 31  | That's All Folks!                             | ✅     |
