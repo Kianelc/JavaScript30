@@ -66,8 +66,8 @@ Aqui está a lista completa dos projetos desenvolvidos ao longo dos 30 dias:
 | 22  | Follow Along Links                            | ✅     |
 | 23  | Speech Synthesis                              | ✅     |
 | 24  | Sticky Nav                                    | ✅     |
-| 25  | Event Capture, Propagation, Bubbling and Once | 🔄     |
-| 26  | Stripe Follow Along Dropdown                  | ⏳     |
+| 25  | Event Capture, Propagation, Bubbling and Once | ✅     |
+| 26  | Stripe Follow Along Dropdown                  | 🔄     |
 | 27  | Click and Drag to Scroll                      | ⏳     |
 | 28  | Video Speed Controller UI                     | ⏳     |
 | 29  | Countdown Clock                               | ⏳     |
